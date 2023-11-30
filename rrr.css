@@ -1,0 +1,20 @@
+
+.a{
+    background-color: black;
+    height: 100px;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+.b{
+    background-color: red;
+    height: 10px;
+}
+.c{
+    background-color: black;
+    height: 100px;
+}
+.d{
+    background-color: blue;
+    height: 10px;
+}
