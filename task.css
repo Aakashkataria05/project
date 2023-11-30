@@ -53,4 +53,5 @@ a{
 .content{
     display: flex ;
     justify-content: center;
+    row-gap: 30px;
 }
