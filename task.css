@@ -1,12 +1,15 @@
 *{
     color: white;
+    margin: 0px;
 }
 .a{
     background-color: rgb(4, 4, 4);
     height: 50px;
+    padding: 0px;
 }
 button{
     background-color: #f08804;
+    height: 25px;
 }
 #logo{
     color: #f08804;
@@ -20,6 +23,10 @@ a{
     background-color: black;
     border-style: solid;
     height: 200px;
+    margin: 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 .x{
     background-color: palevioletred;
