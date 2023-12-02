@@ -44,6 +44,11 @@ a{
     font-size: 20px;
     color: white;
 }
+@media(max-width: 300px){
+    .x{
+        background-color: black;
+    }
+}
 .y{
     background-color: rgb(131, 131, 241);
     border: solid;
@@ -60,6 +65,11 @@ a{
     font-size: 20px;
     color: white;
 }
+@media(max-width: 300px){
+    .y{
+        background-color: black;
+    }
+}
 .z{
     background-color: rgb(245, 245, 120);
     border: solid;
@@ -75,6 +85,11 @@ a{
     background-color: yellow;
     font-size: 20px;
     color: black;
+}
+@media(max-width: 300px){
+    .z{
+        background-color: black;
+    }
 }
 .content{
     display: flex ;
