@@ -107,3 +107,18 @@ span{
 .nav-cart i {
     font-size: 30px;
 }
+
+.second-nav{
+    height: 30px;
+    background-color: #222f3d;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel-ops p {
+    display: inline;
+    width: 70%;
+} 
